@@ -1,0 +1,9 @@
+[submodule "MD-App"]
+	path = MD-App
+	url = https://github.com/CapstoneBangkitOtotHot/MD-App
+[submodule "CC-App"]
+	path = CC-App
+	url = https://github.com/CapstoneBangkitOtotHot/CC-App
+[submodule "ML-App"]
+	path = ML-App
+	url = https://github.com/CapstoneBangkitOtotHot/ML-App
