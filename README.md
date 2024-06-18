@@ -4,7 +4,6 @@ An application to analyze the freshness of the fruits
 
 <img src="https://github.com/CapstoneBangkitOtotHot/FreshMeter/assets/43638783/13ce5687-fb11-47dd-b04e-e027f5f602d0" width="300" height="600"></img>
 <img src="https://github.com/CapstoneBangkitOtotHot/FreshMeter/assets/43638783/c8ab5b27-3ff3-4951-bef1-555d710edae3" width="300" height="600"></img>
-<img src="https://github.com/CapstoneBangkitOtotHot/FreshMeter/assets/43638783/e1f46745-ccef-41de-807f-39a15be38d51" width="300" height="600"></img>
 <img src="https://github.com/CapstoneBangkitOtotHot/FreshMeter/assets/43638783/51a42845-8a2d-4b25-a883-ca56cd809a1c" width="300" height="600"></img>
 
 
